@@ -1,6 +1,21 @@
 # 🎉 Random GIF - React Application
 
-Random GIF is a fun and interactive **React-based** web application that generates random GIFs. Users can either load a random GIF automatically or search for a specific category of GIFs. This project leverages the **Giphy API** to fetch and display dynamic GIF content, ensuring a delightful and entertaining user experience.
+
+**[Random GIF](https://random-gif-v1.netlify.app/)** is a fun and interactive **React-based** web application that generates random GIFs. Users can either load a random GIF automatically or search for a specific category of GIFs. This project leverages the **[Giphy API](https://developers.giphy.com/docs/api/)** to fetch and display dynamic GIF content, ensuring a delightful and entertaining user experience.
+
+## 📑 Table of Contents
+
+1. [🌟 Features](#-features)
+2. [🔧 Tech Stack](#-tech-stack)
+3. [📸 Preview](#-preview)
+3. [📂 Project Structure](#-project-structure)
+4. [🛠️ Installation and Setup](#️-installation-and-setup)
+5. [🌐 Deployment](#-deployment)
+6. [📸 Screenshots](#-screenshots)
+7. [📋 API Usage](#-api-usage)
+7. [🤝 Contributing](#-contributing)
+8. [📜 License](#-license)
+9. [📬 Contact](#-contact)
 
 ## 🚀 Features
 
@@ -10,15 +25,16 @@ Random GIF is a fun and interactive **React-based** web application that generat
 - 📱 **Responsive Design:** Optimized for desktop and mobile devices.
 - ⚡ **Fast & Smooth Performance:** Built using React for a fast and seamless experience.
 
-## 📸 Preview
-
-&#x20;*(Add a live screenshot here)*
-
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Tailwind CSS
-- **API:** Giphy API (for fetching GIFs)
+- **Frontend:** [React.js](https://react.dev/), [Tailwind CSS](https://v2.tailwindcss.com/docs)
+- **API:** [Giphy API](https://developers.giphy.com/docs/api/) (for fetching GIFs)
 - **Deployment:** GitHub and Netlify
+
+## 📸 Preview
+
+### Random GIF
+![Random GIF](src/assets/random-gif.png)
 
 ## 📂 Project Structure
 
@@ -33,6 +49,7 @@ random-gif/
 |   |     └── Tag.jsx
 │   ├── App.js
 │   └── index.js
+├── .env
 ├── .gitignore
 ├── package.json
 └── README.md
@@ -106,13 +123,7 @@ const fetchRandomGif = async () => {
 };
 ```
 
-## 📌 To-Do (Future Improvements)
-
-- 🎯 Add GIF categories.
-- 🔢 Implement pagination for search results.
-- 🎨 Enhance UI/UX with animations.
-
-## 🏆 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
@@ -126,10 +137,11 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 This project is licensed under the **MIT License**.
 
-## 🙌 Acknowledgments
+## 📬 Contact
 
-- **Giphy API** for providing amazing GIFs.
-- Open-source community for continuous support!
+For any queries or suggestions, feel free to reach out:  
+- **GitHub**: [vijays376](https://github.com/vijays376)  
+- **Email**: vijayschouhan376@gmail.com
 
 ---
 
