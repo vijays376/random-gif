@@ -1,6 +1,5 @@
 # 🎉 [Random GIF](https://random-gif-v1.netlify.app/) - React Application
 
-
 **[Random GIF](https://random-gif-v1.netlify.app/)** is a fun and interactive **React-based** web application that generates random GIFs. Users can either load a random GIF automatically or search for a specific category of GIFs. This project leverages the **[Giphy API](https://developers.giphy.com/docs/api/)** to fetch and display dynamic GIF content, ensuring a delightful and entertaining user experience.
 
 ## 📑 Table of Contents
@@ -24,7 +23,7 @@
 - 📱 **Responsive Design:** Optimized for desktop and mobile devices.
 - ⚡ **Fast & Smooth Performance:** Built using React for a fast and seamless experience.
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 - **Frontend:** [React.js](https://react.dev/), [Tailwind CSS](https://v2.tailwindcss.com/docs)
 - **API:** [Giphy API](https://developers.giphy.com/docs/api/) (for fetching GIFs)
@@ -59,7 +58,7 @@ random-gif/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/random-gif.git
+git clone https://github.com/vijays376/random-gif.git
 cd random-gif
 ```
 
